@@ -1,28 +1,28 @@
 # SFTPGo
 
 [![CI Status](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg)](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg)
-[![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![许可证: AGPL-3.0-only](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
-Full-featured and highly configurable event-driven file transfer solution.
-Server protocols: SFTP, HTTP/S, FTP/S, WebDAV.
-Storage backends: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, other SFTP servers.
+功能齐全、高度可配置的事件驱动文件传输解决方案.
+服务器协议：SFTP、HTTP/S、FTP/S、WebDAV.
+存储后端：本地文件系统、加密本地文件系统，S3（兼容）对象存储，Google云存储，Azure Blob存储，其他SFTP服务器.
 
-With SFTPGo you can leverage local and cloud storage backends for exchanging and storing files internally or with business partners using the same tools and processes you are already familiar with.
+使用SFTPGo，您可以利用本地和云存储后端，使用您已经熟悉的相同工具和流程，在内部或与业务合作伙伴交换和存储文件.
 
-The WebAdmin UI allows to easily create and manage your users, folders, groups and other resources.
+Web管理UI允许轻松创建和管理您的用户、文件夹、组和其他资源.
 
-The WebClient UI allows end users to change their credentials, browse and manage their files in the browser and setup two-factor authentication which works with Microsoft Authenticator, Google Authenticator, Authy and other compatible apps.
+Web客户端UI允许最终用户更改其凭据，在浏览器中浏览和管理其文件，并设置与Microsoft身份验证器、谷歌认证、Authy 和其他兼容应用程序配合使用的双重身份验证.
 
-## Sponsors
+## 赞助人
 
-We strongly believe in Open Source software model, so we decided to make SFTPGo available to everyone, but maintaining and evolving SFTPGo takes a lot of time and work. To make development and maintenance sustainable you should consider to support the project with a [sponsorship](https://github.com/sponsors/drakkan).
+我们坚信开源软件模式，所以我们决定让每个人都能使用SFTPGo，但维护和发展SFTPGo需要大量的时间和工作。为了使开发和维护可持续，你应该考虑用[sponsorship](https://github.com/sponsors/drakkan).
 
-We love doing the work and we'd like to keep doing it - your support helps make SFTPGo possible.
+我们喜欢做这项工作，并希望继续做下去——您的支持有助于实现SFTPGo.
 
-It is important to understand that you should support SFTPGo and any other Open Source project you rely on for ongoing maintenance, even if you don't have any questions or need new features, to mitigate the business risk of a project you depend on going unmaintained, with its security and development velocity implications.
+重要的是要明白，你应该支持SFTPGo和你依赖的任何其他开源项目进行持续维护，即使你没有任何问题或需要新功能，以降低你依赖的项目无法维护的业务风险，及其安全性和开发速度的影响。
 
-### Thank you to our sponsors
+### 感谢我们的赞助商
 
 #### Platinum sponsors
 
